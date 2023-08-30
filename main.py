@@ -32,7 +32,6 @@ print(centered_banner)
 name = input("Enter bot name: ")
 token = input("Enter token: ")
 
-s
 url = "https://discord.com/api/v9/applications"
 
 

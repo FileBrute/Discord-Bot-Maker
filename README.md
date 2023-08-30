@@ -29,3 +29,10 @@ cd path/to/discord-bot-creator
 ```bash
 python discord_bot_creator.py
 ```
+
+### Follow the on-screen instructions:
+
+1. Enter your bot's name.
+2. Enter your user token.
+3. Wait for the script to create the bot application.
+4. The script will display a success message if the creation is successful.
